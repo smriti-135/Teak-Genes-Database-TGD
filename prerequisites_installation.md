@@ -33,7 +33,7 @@ sudo chown -Rv www-data:www-data /var/www/html/teak-genes-database
 sudo chmod -Rv 755 /var/www/html/teak-genes-database
 ```
 
-It is important to note the listen ports or listen directive, because it is used to configure Apache HTTPD to use it. When using a Unix socket, the web server must be on the same machine in order to communicate with phpfpm. Here, it was present in ‘/etc/php/8.1/fpm/pool.d/www.conf’. The socket was found as
+It is important to note the listen ports or listen directive, because it is used to configure Apache HTTPD to use it. When using a Unix socket, the web server must be on the same machine in order to communicate with phpfpm. Here, it was present in *‘/etc/php/8.1/fpm/pool.d/www.conf’*. The socket was found as
 ‘listen = /run/php/php8.1-fpm.sock’. This was noted for use in the next step (virtual host configuration).
 ```
 sudo systemctl restart php8.1-fpm
@@ -42,7 +42,7 @@ sudo a2enmod proxy proxy_fcgi
 sudo systemctl restart apache2
 ```
 
-For each Drupal site, a virtual host configuration file had to be created to configure the virtual host to use the appropriate PHP-FPM pool. Here it was configured in ‘/etc/apache2/sites-available/teak-genes-database.conf’
+For each Drupal site, a virtual host configuration file had to be created to configure the virtual host to use the appropriate PHP-FPM pool. Here it was configured in *‘/etc/apache2/sites-available/teak-genes-database.conf’*
 ```
 <VirtualHost *:80>
  ServerName teak-genes-database
@@ -59,7 +59,7 @@ fpm.sock|fcgi://localhost"
  </FilesMatch>
 </VirtualHost>
 ```
-Next, “/etc/hosts” file was edited to map the domain name to the localhost IP
+Next, *`/etc/hosts`* file was edited to map the domain name to the localhost IP
 `127.0.0.1 teak-genes-database`. 
 The web server was now configured to use PHP 8.1. However, a dependency of Drupal called Drush requires a lower version of 7.4. Therefore that was installed as well.
 ```
