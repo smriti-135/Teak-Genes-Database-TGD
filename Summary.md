@@ -2,5 +2,5 @@
 
 * [README](README.md)
 * [Introduction to teak and TGD](Introduction to teak and TGD.md)
-* [Methodology overview] (methodology_overview.md)
+* [Methodology overview](methodology_overview.md)
 * [Prerequisite installations](Prerequisite installations.md)
