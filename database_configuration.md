@@ -7,6 +7,7 @@ An additional super user “postgres_admin_molecular” was created to manage th
 website.
 
 *Note: ********** contains original password*
+
 ```
 CREATE USER postgres_admin_molecular WITH PASSWORD ‘**********’
 SUPERUSER;
