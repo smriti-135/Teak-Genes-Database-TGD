@@ -26,5 +26,5 @@ $databases['default']['default'] = array(
  'prefix' => '',
 );
 ```
-Finally, the site alias or url of the website was added to the end of the sites.php file at ‘/var/www/html/teak-genes-database/sites’.
+Finally, the site alias or url of the website was added to the end of the sites.php file at *‘/var/www/html/teak-genes-database/sites’*.
 `$sites['teak-genes-database'] = 'teak-genes-database';`
