@@ -8,7 +8,6 @@ Information on genome, transcriptome and genes related are continuously getting 
 While existing databases in the public domain offer valuable information, researchers lack a dedicated integrated database specialized in teak. 
 The development of ‘Teak Genes Database’ aims to bridge this gap by allowing researchers to easily store, analyse, and share their teak-related genomic data.
 
-
 **AIM**:
 
 To develop a user-friendly web database of teak genes ‘Teak Genes Database’ to support ongoing teak
