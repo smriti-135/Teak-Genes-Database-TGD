@@ -70,7 +70,7 @@ for module in /etc/php/7.4/mods-available/*.ini; do sudo phpenmod -v 7.4 $(basen
 This way the version of PHP used for web server and shell were both installed so that Drupal 7 rus PHP 8.1 while Drush commands on the shell use PHP 7.4. The steps to manage them are given further.
 
 ## Other software ##
-Composer, Drush, phpPhAdmin/pgAdmin4
+Composer, Drush, phpPgAdmin/pgAdmin4
 
 ```
 php -r "copy('https://getcomposer.org/installer', 'composersetup.php');"
