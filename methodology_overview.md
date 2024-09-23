@@ -1,9 +1,9 @@
-**Methodology overview**
+## Methodology overview
 <p align="center">
   <img width="800" height="500" src="https://github.com/user-attachments/assets/f74d2f47-e8dd-4fef-8fe1-e18310e41298">
-</p>
+</p><br>
 
-**Components**
+## Components of website
 <p align="center">
   <img width="460" height="300" src="https://github.com/user-attachments/assets/d26a475d-c00c-45d5-a357-ba4c4df1da83">
 </p>
