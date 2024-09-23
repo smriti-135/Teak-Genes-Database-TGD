@@ -14,6 +14,7 @@ sudo gedit settings.php
 
 The settings.php file stores essential configuration details such as database connection information, site name,
 and URL.
+
 *Note: ********** contains original password*
 ```
 $databases['default']['default'] = array(
