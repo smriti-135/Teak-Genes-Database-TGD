@@ -1,5 +1,6 @@
 # Teak Genes Database (TGD)
-This is the resource of workflow used to setup the Teak Genes Database website. It was created for ICFRE-Institute of Forest Genetics and Tree Breeding as part of MSc project and thesis. 
+This is the resource of workflow used to setup the Teak Genes Database website. It was created for ICFRE-Institute of Forest Genetics and Tree Breeding as part of MSc project and thesis.
+The entire process is detailed in order in the **CONTENTS.md** file.
 
 The **Teak Genes Database (TGD)** at **ICFRE-Institute of Forest Genetics and Tree Breeding** (ICFRE-IFGTB) gathers, aggregates, and integrates data generated from ongoing teak genetic and genomic research. TGD offers tools for data mining, sequence searching (BLAST), genome browsing (JBrowse), and data download capabilities. Through the creation and export of customized annotation datasets integrated with research data for use in downstream studies, TGD aims to speed up genomics analysis for researchers lacking scripting abilities. In addition to providing a data foundation for further study, these databases provide a forum for researchers to exchange data and findings from previous studies.
 
