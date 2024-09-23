@@ -9,3 +9,4 @@
 * [Tripal & Chado installation](tripal_&_chado_installation.md)
 * [Modules installed](modules_installed.md)
 * [Tripal features configuration](tripal_features_configuration.md)
+* [Datasets](datasets.md)
