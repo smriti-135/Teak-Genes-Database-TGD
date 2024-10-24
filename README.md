@@ -6,4 +6,4 @@ The **Teak Genes Database (TGD)** at **ICFRE-Institute of Forest Genetics and Tr
 
 The Teak Genes Database is hosted at the BIACP Programme Centre Resource Partner on Forest Genetic Resources and Tree Improvement hosted by ICFRE - Indian Council of Forestry Research and Education, Coimbatore sponsored by Ministry of Environment, Forest & Climate Change, Govt. of India. It is supported by **INDO-DENMARK JOINT RESEARCH PROJECT grant no. IC-12013(12)/2/2021-EEB-DBT** from the Department of Biotechnology, Government of India under the project entitled 'Genomic selection for superior heartwood formation in two commercial timber species teak (*Tectona grandis*) and European oak (*Quercus robur*) - FastWood'.
 
-The website is now available as part of the official IFGTB-ENVIS website https://ifgtbenvis.in/ (under *`Genomic databases -> Tectona grandis`*) or can be directly accessed at http://97.74.94.245/content/mainhome.
+The website is now available as part of the official IFGTB-ENVIS website https://ifgtbenvis.in/ (under *`Genomic databases -> Tectona grandis -> Teak Genes`*) or can be directly accessed at http://97.74.94.245/content/mainhome.
