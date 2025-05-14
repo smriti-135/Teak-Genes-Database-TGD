@@ -1,6 +1,6 @@
 Many useful Tripal modules have been developed by Mainlab Bioinformatics. To use these, the mainlab tripal and mainlab chado loader modules were first installed as detailed in their repository (https://gitlab.com/mainlabwsu/mainlab_tripal, https://github.com/tripal/mainlab_chado_loader).
 
-For the search functionality, manilab chado search was used as detailed in its repository (https://gitlab.com/mainlabwsu/chado_search). This creates an interface with a webform for the user. This connects with the chado dataase to query the content required by the user and display it back as a web page.
+For the search functionality, manilab chado search was used as detailed in its repository (https://gitlab.com/mainlabwsu/chado_search). This creates an interface with a webform for the user. This connects with the chado database to query the content required by the user and display it back as a web page.
 
 The module was first downloaded and enabled.
 
